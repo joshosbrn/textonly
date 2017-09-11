@@ -1,7 +1,7 @@
 # Site settings
 title: Text Only
 version: "v1"
-description: "A text-only list of text-only websites. Easy on your bandwidth & your eyes ;)"
+description: "A text-only list of text-only websites. Easy on your bandwidth & your eyeballs."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
