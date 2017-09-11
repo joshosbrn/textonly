@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<ul style="padding-left: 0;">
+  {% for website in site.data.websites %}
+  <li style="margin-bottom: 10px;">
+    <a href="{{ website.url }}">{{ website.name }}</a> added {{ website.date }}
+  </li>
+  {% endfor %}
+</ul>

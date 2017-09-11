@@ -1,0 +1,19 @@
+- name: "Daywreckers"
+  url: http://daywreckers.com/
+  date: "9/12/2017"
+  topic: "Design"
+
+- name: "The Age"
+  url: http://www.theage.com.au/text
+  date: "9/12/2017"
+  topic: "News"
+
+- name: "CNN"
+  url: http://lite.cnn.io
+  date: "9/11/2017"
+  topic: "News"
+
+- name: "NPR"
+  url: http://text.npr.org
+  date: "9/11/2017"
+  topic: "News"
