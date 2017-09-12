@@ -1,3 +1,18 @@
+- name: Dan Luu
+  url: https://danluu.com/
+  date: 9/12/2017
+  topic: Writing
+
+- name: wttr.in
+  url: http://wttr.in/
+  date: 9/12/2017
+  topic: Weather
+
+- name: Gwern Branwen
+  url: https://www.gwern.net/
+  date: 9/12/2017
+  topic: Writing
+
 - name: "Daywreckers"
   url: http://daywreckers.com/
   date: "9/12/2017"
@@ -10,10 +25,5 @@
 
 - name: "CNN"
   url: http://lite.cnn.io
-  date: "9/11/2017"
-  topic: "News"
-
-- name: "NPR"
-  url: http://text.npr.org
   date: "9/11/2017"
   topic: "News"

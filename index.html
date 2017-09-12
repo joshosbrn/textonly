@@ -1,17 +1,10 @@
 ---
 layout: default
 ---
-<!-- Filter by topic TK! -->
-<!-- <ul style="padding-left: 0px; border-bottom: 1px solid #000; padding-bottom: 15px;">
-  <li style="display: inline; margin-right: 5px;">Filter by:</li>
-  <li style="display: inline; margin-right: 5px;"><a href="#">News</a></li>
-  <li style="display: inline; margin-right: 5px;"><a href="#">All</a></li>
-</ul> -->
-
 <ul style="padding-left: 0;">
   {% for website in site.data.websites %}
-  <li style="margin-bottom: 10px;">
-    <a href="{{ website.url }}">{{ website.name }}</a> added {{ website.date }}
+  <li style="margin-bottom: 10px; list-style-type: none;">
+    <a href="{{ website.url }}">{{ website.name }}</a> — added on {{ website.date }} — {{ website.topic }}
   </li>
   {% endfor %}
 </ul>
