@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<ul style="padding-left: 0;">
+<ul class="list pl0">
   {% for website in site.data.websites %}
-  <li style="margin-bottom: 10px; list-style-type: none;">
+  <li class="mb-10">
     <a href="{{ website.url }}">{{ website.name }}</a> — added on {{ website.date }} — {{ website.topic }}
   </li>
   {% endfor %}
