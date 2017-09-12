@@ -4,6 +4,7 @@ version: "0.1"
 description: "A text-only list of text-only websites. Easy on your bandwidth & your eyeballs."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+size: "33k"
 
 # Tachyons Version
 tv: "4.7.0"
