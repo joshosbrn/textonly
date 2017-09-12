@@ -2,7 +2,7 @@
 title: "Text Only"
 description: "A text-only list of text-only websites. Easy on your bandwidth & your eyeballs."
 version: "0.1"
-size: "33k"
+size: "20k"
 
 # Build settings
 markdown: kramdown
