@@ -1,3 +1,28 @@
+- name: Vulfpeck
+  url: https://vulfpeck.com/
+  date: 9/14/2017
+  topic: Music
+
+- name: Understanding Duchamp
+  url: http://www.understandingduchamp.com/text.html
+  date: 9/14/2017
+  topic: Art
+
+- name: IPCalf
+  url: http://ipcalf.com/
+  date: 9/14/2017
+  topic: Tool
+
+- name: wwwwwwwww.jodi.org
+  url: http://wwwwwwwww.jodi.org/
+  date: 9/14/2017
+  topic: Art
+
+- name: "Design For The Net: ASCII"
+  url: http://ascii.designforthe.net/
+  date: 9/14/2017
+  topic: Art
+
 - name: Learning Gardens
   url: http://learning-gardens.co/
   date: 9/13/2017
