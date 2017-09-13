@@ -1,3 +1,23 @@
+- name: Learning Gardens
+  url: http://learning-gardens.co/
+  date: 9/13/2017
+  topic: Community
+
+- name: NPR
+  url: http://text.npr.org
+  date: 9/13/2017
+  topic: News
+
+- name: tilde.town
+  url: http://tilde.town/
+  date: 9/13/2017
+  topic: Community
+
+- name: Txti
+  url: http://txti.es/
+  date: 9/13/2017
+  topic: Tool
+
 - name: Dan Luu
   url: https://danluu.com/
   date: 9/12/2017
@@ -16,7 +36,7 @@
 - name: "Daywreckers"
   url: http://daywreckers.com/
   date: "9/12/2017"
-  topic: "Design"
+  topic: "Art"
 
 - name: "The Age"
   url: http://www.theage.com.au/text
