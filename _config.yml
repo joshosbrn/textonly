@@ -13,3 +13,6 @@ exclude: [node_modules, gulpfile.js, package-lock.json, package.json, Gemfile.lo
 # Gems
 gems:
   - jekyll-seo-tag
+
+# Analytics
+ga: UA-42682851-7

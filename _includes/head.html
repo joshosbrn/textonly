@@ -8,6 +8,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <!-- Only render the GA script on production -->
+  {% if site.ga and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
   <!-- In an attempt to avoid importing all of Tachyons, here are some Tachyons-style classes I'm creating as needed. Need to add classes? Try this: http://tachyons.io/docs/ -->
 
   <style>
