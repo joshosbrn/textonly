@@ -1,3 +1,28 @@
+- name: Cosma's Homepage
+  url: http://bactra.org/
+  date: 10/3/2017
+  topic: Writing
+
+- name: Human Universals
+  url: http://condor.depaul.edu/mfiddler/hyphen/humunivers.htm
+  date: 10/3/2017
+  topic: Writing
+
+- name: Odie
+  url: http://odie.us/
+  date: 10/3/2017
+  topic: Tool
+
+- name: When Is DC Newsnerd's Lunch?
+  url: http://whenisdcnewsnerdslunch.com/
+  date: 10/3/2017
+  topic: Event
+
+- name: Ninja
+  url: https://ninja-build.org/
+  date: 10/3/2017
+  topic: Tool
+
 - name: Top Ten Web Design Styles of 1993
   url: http://contemporary-home-computing.org/prof-dr-style/
   date: 9/26/2017
